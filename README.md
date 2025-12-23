@@ -35,8 +35,9 @@ I’m **Vincent de Paul Ntihinyurwa**, a **Data Analytics & Information Systems 
 
 ### 📫 How to reach me
 
-* GitHub:[here]([url](https://github.com/Ntihinyurwa))
+* GitHub:https://github.com/Ntihinyurwa
 * Email: **videpaul2@gmail.com**
+* LinkedIn: https://www.linkedin.com/in/vincent-de-paul-ntihinyurwa/
 
 
 
