@@ -12,7 +12,7 @@ I’m **Vincent de Paul Ntihinyurwa**, a **Data Analytics & Information Systems 
 ### 🌱 I’ve recently completed
 
 * **Fraud Detection Project**: Built and evaluated machine learning models for fraud classification, focusing on feature engineering, model comparison, and business interpretability. Check it out [here](https://github.com/Ntihinyurwa/data-science-portfolio/tree/main/analytics-business/fraud-detection-machine-learning)
-* **Advanced Data Modeling & SQL Project**: Designed relational schemas, implemented advanced SQL queries, and supported analytical reporting use cases. Check it out here
+* **Advanced Data Modeling & SQL Project**: Designed relational schemas, implemented advanced SQL queries, and supported analytical reporting use cases. Check it out [here](https://github.com/Ntihinyurwa/data-science-portfolio/tree/main/data-modeling-sql/database-design-advanced-sql)
 
 ### 🤝 I’m looking to collaborate on
 
