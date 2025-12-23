@@ -4,10 +4,8 @@ I’m **Vincent de Paul Ntihinyurwa**, a **Data Analytics & Information Systems 
 
 ### 🔧 I’m currently working on
 
-* **ETL & Data Warehousing Project**
-  Designing end-to-end ETL pipelines, dimensional models, and SCDs for analytics-ready data
-* **Price Optimization Project (Upcoming)**
-  Applying analytics and modeling techniques to support data-driven pricing and revenue decisions
+* **ETL & Data Warehousing Project**:  Designing end-to-end ETL pipelines, dimensional models, and SCDs for analytics-ready data
+* **Price Optimization Project (Upcoming)**: Applying analytics and modeling techniques to support data-driven pricing and revenue decisions
 
 ### 🌱 I’ve recently completed
 
